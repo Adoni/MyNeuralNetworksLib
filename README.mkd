@@ -1,0 +1,4 @@
+##Data Format
+* 1st line: one number n, which is the count of data
+* 2nd line: two numbers mx and my, which are the dimention count of x and y
+* ith line (i>2): mx+my numbers, which are x and y
