@@ -341,7 +341,7 @@ public:
             }
         }
     }
-    void getData(string fileName)
+    void getData(const char* fileName)
     {
         ifstream fin(fileName);
         fin>>this->DataCount;
