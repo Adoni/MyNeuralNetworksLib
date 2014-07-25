@@ -1,4 +1,4 @@
 MyNeuralNetworksLib
 ===================
 
-This is a Neural Network library developed by Adoni.Sun
+This is a Neural Network library developed by Adoni.Sun in HIT.
